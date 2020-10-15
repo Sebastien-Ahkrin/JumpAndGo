@@ -1,0 +1,23 @@
+{
+  "name": "jumpandgo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sebastien-Ahkrin/JumpAndGo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sebastien-Ahkrin/JumpAndGo/issues"
+  },
+  "homepage": "https://github.com/Sebastien-Ahkrin/JumpAndGo#readme",
+  "devDependencies": {
+    "@types/node": "^14.11.8",
+    "typescript": "^4.0.3"
+  }
+}
